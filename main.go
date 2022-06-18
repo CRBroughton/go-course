@@ -14,7 +14,7 @@ func main() {
 	var firstName string
 	var lastName string
 	var email string
-	var userTickets int
+	var userTickets uint
 
 	fmt.Println("Enter your first name: ")
 	fmt.Scan(&firstName) // & - Go pointer
