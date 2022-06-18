@@ -1,0 +1,20 @@
+{
+  "name": "go-course",
+  "version": "1.0.0",
+  "description": "Go Course",
+  "main": "index.js",
+  "scripts": {
+    "commit": "cz"
+  },
+  "config": {
+    "commitizen": {
+      "path": "./node_modules/cz-conventional-changelog"
+    }
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cz-conventional-changelog": "^3.3.0"
+  }
+}
